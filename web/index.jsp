@@ -12,6 +12,7 @@
 </style>
 </head>
 <body>
+<!-- 메인화면 인클루드 -->
 	<jsp:include page="views/gook.jsp"/>
 </body>
 </html>
